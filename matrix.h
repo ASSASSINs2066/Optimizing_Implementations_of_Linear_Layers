@@ -11,7 +11,7 @@ using namespace std;
 #define THREAD_NUM 4
 
 //#define STRATEGY 2   // 1 for strategy3-1, 2 for strategy3-2
-#define CHOICE 33
+#define CHOICE 40
 
 
 

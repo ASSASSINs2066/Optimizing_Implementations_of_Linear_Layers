@@ -2,6 +2,7 @@
 #include <memory.h>
 #include <random>
 #include <stdlib.h>
+#include <sys/time.h>
 #include "strategy.h"
 
 mt19937 rand_generator(time(NULL));
